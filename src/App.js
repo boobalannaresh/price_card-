@@ -126,7 +126,7 @@ function App() {
             
         },
         {
-            name: "Unlimited Free Subdomain ",
+            name: [<strong>Unlimited</strong>, " ","Free Subdomain "],
             isEnable : true
         },
         {
